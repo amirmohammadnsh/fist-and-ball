@@ -4,5 +4,20 @@ Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients w
 This add-on is compatible with both Blender 2.83 LTS and 2.93 LTS versions. 
 # Usage
 1. It is required to add Scipy package compatible to the python enviroment version of your Blender.
-  - Add it manually to your site-packages folder of your Blender, which is **C:\Program Files\Blender Foundation\Blender 2.93\2.93\python\lib\site-packages**
+  - Add it manually to your site-packages folder of your Blender, which is **Installation Directory\Blender Foundation\Blender 2.93\2.93\python\lib\site-packages**
   - use [2nd method](https://stackoverflow.com/questions/11161901/how-to-install-python-modules-in-blender) 
+2. Place all listed modules to  **Installation Directory\Blender Foundation\Blender 2.93\2.93\scripts\modules**
+  - **deviceConnection** 
+  - **fistAndBall_modal_timer_operator**
+  - **fistAndBall_ui_panel**
+  - **hand_logic**
+  - **hand_visualization**
+  - **implantedMagnets**
+  - **leds**
+  - **sampleLogger**
+  - **sceneObjects**
+  - **upperLimb**
+3. In our project, we use calibrated data of magnetometers. Therefore, the address of calibrationParams folder is set in **calibPath** variable in the **modalTimerOperator.py**. Also, number of magnetometers, deivce ip and port should be set in this file.
+4. Import .blend file to Blender.
+5. From Edit/Preferences Install main.py then activate it.
+6. By pressing "N" shortcut key inside blender, you can see the add-on ui panel.
