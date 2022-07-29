@@ -28,4 +28,5 @@ Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients w
 # Add-On Panel UI
 ![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/panel_ui.jpg)
 # Video
-https://github.com/amirmohammadnsh/fist-and-ball/blob/main/video-fist-and-ball.mp4
+<video src='https://github.com/amirmohammadnsh/fist-and-ball/blob/main/video-fist-and-ball.mp4' width=180/>
+
