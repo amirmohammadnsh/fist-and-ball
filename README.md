@@ -23,3 +23,7 @@ Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients w
 5. From **Edit/Preferences**, install *main.py*, then activate it.
 6. By pressing *"N"* shortcut key inside blender, you can view the add-on ui panel.
 7. The sampled data and the patient's progress will be saved in the *Fist&Ball-Log-Files* foler in "**Installation Directory\Blender Foundation\Blender 2.93**".
+# Game Environment
+![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/env.jpg)
+# Add-On Panel UI
+![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/panel_ui.jpg)
