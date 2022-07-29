@@ -1,7 +1,7 @@
 # fist-and-ball
 Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients who suffer from hand amputees practice fist gestures with the help of magnets implanted in their forearms.
 # Notes
-- The *Fist-and-Ball* add-on cosists of a virtual left hand, an orange ball and nine Leds. The [3D-Hand model](https://blendswap.com/blend/22357) by *Jonathan Williamson* was used to build a rigged-hand by using armatures as the bones of each finger. Also "Copy Constraints" and "Inverse Kinematiks" add-on of blender was used to ease the hand gestures visualization. 
+- The *Fist-and-Ball* add-on consists of a virtual left hand, an orange ball and nine Leds. The [3D-Hand model](https://blendswap.com/blend/22357) by *Jonathan Williamson* was used to build a rigged-hand by using armatures as the bones of each finger. Also "Copy Constraints" and "Inverse Kinematics" add-on of Blender was used to ease the hand gestures visualization. The orange ball will be moving in up and down directions. The patient will exercise on performing fist gesture by capturing and holding the orange ball. The nine leds indicates the stages between open palm and closed fist.
 - This add-on is compatible with both Blender 2.83 LTS and 2.93 LTS versions (**Windows**)
 # Usage
 1. It is required to add Scipy package compatible to the python enviroment version of your Blender.
