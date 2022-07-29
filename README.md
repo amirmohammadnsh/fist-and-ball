@@ -20,10 +20,14 @@ Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients w
   - **upperLimb**
 3. In our project, we exploit calibrated data of magnetometers. Therefore, the address of calibrationParams folder should be set by **calibPath** variable in the **modalTimerOperator.py**. Also, number of magnetometers, deivce ip and port should be set in this file.
 4. Import *.blend* file to Blender.
-5. From **Edit/Preferences**, install *main.py*, then activate it.
+5. From **Edit/Preferences/Add-ons**, install *main.py*, then activate it.
 6. By pressing *"N"* shortcut key inside blender, you can view the add-on ui panel.
 7. The sampled data and the patient's progress will be saved in the *Fist&Ball-Log-Files* foler in "**Installation Directory\Blender Foundation\Blender 2.93**".
 # Game Environment
 ![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/env.jpg)
 # Add-On Panel UI
 ![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/panel_ui.jpg)
+# Gameplay
+https://user-images.githubusercontent.com/28790347/181812696-4cacbb9f-740a-4a53-80c2-88c4cff7f4be.mp4
+
+
