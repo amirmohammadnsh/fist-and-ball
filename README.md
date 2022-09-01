@@ -30,7 +30,17 @@ Fist&amp;Ball is a rehabilitation exercise game developed in Blender. Patients w
 ![alt text](https://github.com/amirmohammadnsh/fist-and-ball/blob/main/panel_ui.jpg)
 # Gameplay
 https://user-images.githubusercontent.com/28790347/181814953-f27285db-462f-4ef3-b268-3c9a06a71abd.mp4
-
-
+# Paper
+This is the implementation of the **Fist and Ball** game mentioned in our paper titled [**Clinical implementation of a bionic hand controlled with kineticomyographic signals**](https://www.nature.com/articles/s41598-022-19128-1). If this work or paper is useful for your research, please cite our paper:
+---
+@article{ Clinical implementation of a bionic hand controlled with kineticomyographic signals,
+  author = {Ali Moradi, Hamed Rafiei, Mahla Daliri, Mohammad-R. Akbarzadeh-T., Alireza Akbarzadeh, Amir-M. Naddaf-Sh and Sadra Naddaf-Sh},
+  doi = {10.1038/s41598-022-19128-1},
+  title = {{My Research Software}},
+  url = {https://doi.org/10.1038/s41598-022-19128-1},
+  journal = {Scientific Reports},
+  year = {2022}
+}
+---
 
 
